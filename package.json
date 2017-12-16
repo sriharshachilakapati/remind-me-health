@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Reminder tool that reminds about water / eye rest every hour.",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "remind-me-health": "index.js"
+  },
   "dependencies": {
     "node-notifier": "^5.1.2"
   },
