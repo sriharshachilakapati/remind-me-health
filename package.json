@@ -1,0 +1,34 @@
+{
+  "name": "remind-me-health",
+  "version": "0.0.1",
+  "description": "Reminder tool that reminds about water / eye rest every hour.",
+  "main": "index.js",
+  "dependencies": {
+    "node-notifier": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriharshachilakapati/remind-me-health.git"
+  },
+  "keywords": [
+    "health",
+    "remind",
+    "reminder",
+    "water",
+    "eye",
+    "rest",
+    "hour",
+    "hourly"
+  ],
+  "author": "Sri Harsha Chilakapati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sriharshachilakapati/remind-me-health/issues"
+  },
+  "homepage": "https://github.com/sriharshachilakapati/remind-me-health#readme"
+}
